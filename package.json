@@ -1,0 +1,19 @@
+{
+	"name": "covid-api",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "SET NODE_ENV=dev && node server.js",
+		"test": "mocha --timeout 10000"
+	},
+	"keywords": [],
+	"author": "Bilal Cheema",
+	"license": "ISC",
+	"devDependencies": {
+		"chai": "^4.2.0",
+		"config": "^3.3.6",
+		"mocha": "^8.2.0",
+		"supertest": "^5.0.0"
+	}
+}

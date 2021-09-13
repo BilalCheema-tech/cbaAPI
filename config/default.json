@@ -1,0 +1,6 @@
+{
+	"Covid": {
+		"baseURL": "https://supervillain.herokuapp.com",
+		"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJDQkFfVXNlciIsImlhdCI6MTYzMTUyNzU2MSwiZXhwIjoxNjMxNzg2NzYxfQ.0xDk-ufYIpQJC7HIHREKXNAhF-hZVzf2qAuSSroTe1k"
+	}
+}
